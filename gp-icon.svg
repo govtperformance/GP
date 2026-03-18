@@ -1,0 +1,15 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Government Performance icon">
+  <defs>
+    <linearGradient id="igpBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="igpGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5D06F"/>
+      <stop offset="100%" stop-color="#C89B2A"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="44" fill="#F8FAFC"/>
+  <path d="M128 28 L192 45 L192 116 C192 154 166 187 128 201 C90 187 64 154 64 116 L64 45 Z" fill="url(#igpBlue)" stroke="url(#igpGold)" stroke-width="6"/>
+  <text x="128" y="133" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="900" fill="#FFFFFF">GP</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Government Performance stacked logo">
+  <defs>
+    <linearGradient id="sgpBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="sgpGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5D06F"/>
+      <stop offset="100%" stop-color="#C89B2A"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="420" rx="28" fill="#F8FAFC"/>
+  <g transform="translate(97,36)">
+    <path d="M113 0 L199 22 L199 112 C199 163 165 204 113 218 C61 204 27 163 27 112 L27 22 Z" fill="url(#sgpBlue)" stroke="url(#sgpGold)" stroke-width="6"/>
+    <text x="113" y="127" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="900" fill="#FFFFFF">GP</text>
+  </g>
+  <text x="210" y="314" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800" fill="#0F172A">Government</text>
+  <text x="210" y="356" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800" fill="#0F172A">Performance</text>
+  <text x="210" y="389" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1D4ED8">Communities Holding Government Accountable</text>
+</svg>

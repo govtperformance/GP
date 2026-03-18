@@ -1,0 +1,29 @@
+<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Government Performance logo">
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5D06F"/>
+      <stop offset="100%" stop-color="#C89B2A"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(20,28)">
+    <path d="M70 0 L130 14 L130 76 C130 110 108 138 70 148 C32 138 10 110 10 76 L10 14 Z"
+      fill="url(#blue)" stroke="url(#gold)" stroke-width="4"/>
+    <text x="70" y="88" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+      font-size="44" font-weight="900" fill="#ffffff">GP</text>
+  </g>
+
+  <g transform="translate(182,44)">
+    <text x="0" y="20" font-family="Arial, Helvetica, sans-serif"
+      font-size="42" font-weight="800" fill="#0F172A">Government</text>
+    <text x="0" y="68" font-family="Arial, Helvetica, sans-serif"
+      font-size="42" font-weight="800" fill="#0F172A">Performance</text>
+
+    <text x="0" y="108" font-family="Arial, Helvetica, sans-serif"
+      font-size="24" font-weight="700" fill="#1D4ED8">Communities Holding Government Accountable</text>
+  </g>
+</svg>

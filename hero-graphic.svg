@@ -1,0 +1,56 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Government Performance hero graphic">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="55%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5D06F"/>
+      <stop offset="100%" stop-color="#C89B2A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" rx="36" fill="url(#bg)"/>
+
+  <g opacity="0.12">
+    <path d="M0 560 C180 490 260 500 420 545 C580 590 710 596 920 520 C1020 484 1100 468 1200 490 L1200 700 L0 700 Z" fill="#FFFFFF"/>
+    <path d="M0 490 C170 420 270 430 420 470 C620 525 790 498 950 420 C1030 382 1110 368 1200 390 L1200 700 L0 700 Z" fill="#FFFFFF"/>
+  </g>
+
+  <g opacity="0.18">
+    <rect x="84" y="110" width="300" height="180" rx="20" fill="#FFFFFF"/>
+    <rect x="814" y="136" width="252" height="145" rx="20" fill="#FFFFFF"/>
+    <rect x="710" y="375" width="328" height="160" rx="20" fill="#FFFFFF"/>
+  </g>
+
+  <g transform="translate(116,135)">
+    <path d="M92 0 L156 18 L156 82 C156 119 132 149 92 161 C52 149 28 119 28 82 L28 18 Z" fill="#0F172A" stroke="url(#gold)" stroke-width="5"/>
+    <text x="92" y="93" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="50" font-weight="900" fill="#FFFFFF">GP</text>
+  </g>
+
+  <g transform="translate(548,124)">
+    <circle cx="0" cy="0" r="10" fill="#F5D06F"/>
+    <circle cx="74" cy="-28" r="10" fill="#F5D06F"/>
+    <circle cx="146" cy="0" r="10" fill="#F5D06F"/>
+    <circle cx="220" cy="-20" r="10" fill="#F5D06F"/>
+    <line x1="0" y1="0" x2="74" y2="-28" stroke="#F5D06F" stroke-width="4"/>
+    <line x1="74" y1="-28" x2="146" y2="0" stroke="#F5D06F" stroke-width="4"/>
+    <line x1="146" y1="0" x2="220" y2="-20" stroke="#F5D06F" stroke-width="4"/>
+    <text x="0" y="58" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Community awareness and civic visibility</text>
+  </g>
+
+  <g transform="translate(540,318)">
+    <text x="0" y="0" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="#FFFFFF">Local issues.</text>
+    <text x="0" y="66" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="#FFFFFF">National-quality civic infrastructure.</text>
+    <text x="0" y="128" font-family="Inter, Arial, sans-serif" font-size="24" fill="#DBEAFE">Tools, templates, guidance, and communications support for communities that need to be heard.</text>
+  </g>
+
+  <g transform="translate(110,430)">
+    <rect x="0" y="0" width="430" height="150" rx="22" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.16)"/>
+    <text x="26" y="42" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#F5D06F">WHY COMMUNITIES NEED GP</text>
+    <text x="26" y="78" font-family="Inter, Arial, sans-serif" font-size="18" fill="#FFFFFF">• Limited local media</text>
+    <text x="26" y="108" font-family="Inter, Arial, sans-serif" font-size="18" fill="#FFFFFF">• Real issues without visibility</text>
+    <text x="26" y="138" font-family="Inter, Arial, sans-serif" font-size="18" fill="#FFFFFF">• Citizens needing structure, tools, and safer channels</text>
+  </g>
+</svg>

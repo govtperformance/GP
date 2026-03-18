@@ -1,0 +1,23 @@
+<svg width="760" height="180" viewBox="0 0 760 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Government Performance logo dark">
+  <defs>
+    <linearGradient id="dgpBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="dgpGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5D06F"/>
+      <stop offset="100%" stop-color="#C89B2A"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="180" rx="18" fill="#0F172A"/>
+  <g transform="translate(18,16)">
+    <path d="M74 0 L132 14 L132 76 C132 110 110 138 74 148 C38 138 16 110 16 76 L16 14 Z" fill="url(#dgpBlue)" stroke="url(#dgpGold)" stroke-width="4"/>
+    <text x="74" y="87" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800" fill="#FFFFFF">GP</text>
+  </g>
+  <g transform="translate(180,34)">
+    <text x="0" y="34" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800" fill="#FFFFFF">Government Performance</text>
+    <text x="0" y="74" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#F5D06F">Communities Holding Government Accountable</text>
+    <line x1="0" y1="92" x2="420" y2="92" stroke="#334155" stroke-width="3"/>
+    <text x="0" y="124" font-family="Inter, Arial, sans-serif" font-size="18" fill="#CBD5E1">National civic infrastructure for local government issues and community visibility.</text>
+  </g>
+</svg>
